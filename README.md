@@ -22,8 +22,8 @@ A memory-based puzzle game developed in Scratch.
 
 ## Game Flow
 
-<a href="diagram.svg">
-  <img src="diagram.svg" width="800" alt="game flow diagram">
+<a href="diagram.png">
+  <img src="diagram.png" width="900" alt="game flow diagram">
 </a>
 
 *Click the diagram to view the full-size version.*
