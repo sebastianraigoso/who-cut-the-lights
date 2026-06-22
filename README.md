@@ -6,11 +6,9 @@ A memory-based puzzle game developed in Scratch.
 
 ## Play the Game
 
-<!-- add a link to scratch mit website or better solution -->
+[Play Who cut the lights] (https://scratch.mit.edu/projects/1334421271)
 
 ## Gameplay
-
-<!-- Add a GIF -->
 
 - Watch the path appear.
 - Memorize it.
@@ -19,6 +17,20 @@ A memory-based puzzle game developed in Scratch.
 - Complete all 9 levels.
 - Earn Gold, Silver, or Bronze medals based on completion time.
 
+### Main Gameplay
+<a href="/gifs/01-maingame.gif">
+  <img src="/gifs/01-maingame.gif" width="900" alt="game flow diagram">
+</a>
+
+### Fall
+<a href="/gifs/02-fall.gif">
+  <img src="/gifs/02-fall.gif" width="900" alt="game flow diagram">
+</a>
+
+### Ending
+<a href="/gifs/03-endgame.gif">
+  <img src="/gifs/03-endgame.gif" width="900" alt="game flow diagram">
+</a>
 
 ## Game Flow
 
@@ -26,7 +38,7 @@ A memory-based puzzle game developed in Scratch.
   <img src="diagram.png" width="900" alt="game flow diagram">
 </a>
 
-*Click the diagram to view the full-size version.*
+*The diagram is intentionally displayed as a preview. Click the image and open it in a new tab to inspect the full-resolution version.*
 
 ## Game Features
 
@@ -50,12 +62,21 @@ A memory-based puzzle game developed in Scratch.
 
 ...
 
+## What I would improve
 
-## Visual Assets
+- Refactor the chrono/timer
+- Replace duplicated code
+- Add sound settings
+- Add additional levels
+- Port the game to godot
+
+## Credits
+
+### Visual Assets
 
 This project uses sprite assets originally sourced from The Spriters Resource.
-
-The original sprites were not used as-is. Individual sprite elements were extracted, reorganized, recombined, and adapted to create new game scenes, levels, user interface elements, and animations specifically for this project.
+The original sprites were not used as-is.
+Individual sprite elements were modify to create new game scenes, levels, user interface elements, and animations specifically for this project.
 
 Source games include:
 
@@ -71,14 +92,13 @@ Banjo and kazoiie (N64)
 Animal Crossing (N64)
 
 This project also uses sound effects sourced from The Sounds Resource.
-
-Several sounds were edited, trimmed, looped, and integrated into the game to fit specific gameplay events and animations.
+Several sounds were edited, trimmed, looped, and integrated into the game to fit gameplay events and animations.
 
 Asset Sources
 https://www.spriters-resource.com
 https://www.sounds-resource.com
-Disclaimer
+
+!Disclaimer!
 
 All characters, sprites, sounds, trademarks, and intellectual property belong to their respective copyright holders.
-
 This project was created as a non-commercial educational and portfolio project to demonstrate game design, programming logic, documentation, and software development practices.
