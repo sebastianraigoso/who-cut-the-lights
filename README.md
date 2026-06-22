@@ -49,3 +49,36 @@ A memory-based puzzle game developed in Scratch.
 ## What I have learn
 
 ...
+
+
+## Visual Assets
+
+This project uses sprite assets originally sourced from The Spriters Resource.
+
+The original sprites were not used as-is. Individual sprite elements were extracted, reorganized, recombined, and adapted to create new game scenes, levels, user interface elements, and animations specifically for this project.
+
+Source games include:
+
+Kirby Mass Attack (Nintendo DS)
+Mother 3 (Game Boy Advance)
+Pokémon Ruby & Sapphire (Game Boy Advance)
+Mario & Luigi series (Game Boy Advance)
+The Legend of Zelda: The Minish Cap (Game Boy Advance)
+Wario Land 4 (Game Boy Advance)
+WarioWare: Twisted! (Game Boy Advance)
+Kirby's Epic Yarn (Wii)
+Banjo and kazoiie (N64)
+Animal Crossing (N64)
+
+This project also uses sound effects sourced from The Sounds Resource.
+
+Several sounds were edited, trimmed, looped, and integrated into the game to fit specific gameplay events and animations.
+
+Asset Sources
+https://www.spriters-resource.com
+https://www.sounds-resource.com
+Disclaimer
+
+All characters, sprites, sounds, trademarks, and intellectual property belong to their respective copyright holders.
+
+This project was created as a non-commercial educational and portfolio project to demonstrate game design, programming logic, documentation, and software development practices.
