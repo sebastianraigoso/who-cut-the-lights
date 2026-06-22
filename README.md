@@ -19,17 +19,17 @@ A memory-based puzzle game developed in Scratch.
 
 ### Main Gameplay
 <a href="/gifs/01-maingame.gif">
-  <img src="/gifs/01-maingame.gif" width="900" alt="game flow diagram">
+  <img src="/gifs/01-maingame.gif" width="400" alt="game flow diagram">
 </a>
 
 ### Fall
 <a href="/gifs/02-fall.gif">
-  <img src="/gifs/02-fall.gif" width="900" alt="game flow diagram">
+  <img src="/gifs/02-fall.gif" width="400" alt="game flow diagram">
 </a>
 
 ### Ending
 <a href="/gifs/03-endgame.gif">
-  <img src="/gifs/03-endgame.gif" width="900" alt="game flow diagram">
+  <img src="/gifs/03-endgame.gif" width="400" alt="game flow diagram">
 </a>
 
 ## Game Flow
