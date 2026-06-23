@@ -1,6 +1,8 @@
 # Who Cut The Lights
 
-<!-- screenshot of the game or a gif ?-->
+<a href="/screenshots/menu.png">
+  <img src="/screenshots/menu.png" width="400" alt="game flow diagram">
+</a>
 
 A memory-based puzzle game developed in Scratch.
 
@@ -19,17 +21,17 @@ A memory-based puzzle game developed in Scratch.
 
 ### Main Gameplay
 <a href="/gifs/01-maingame.gif">
-  <img src="/gifs/01-maingame.gif" width="400" alt="game flow diagram">
+  <img src="/gifs/01-maingame.gif" width="400" alt="main game">
 </a>
 
 ### Fall
 <a href="/gifs/02-fall.gif">
-  <img src="/gifs/02-fall.gif" width="400" alt="game flow diagram">
+  <img src="/gifs/02-fall.gif" width="400" alt="fall">
 </a>
 
 ### Ending
 <a href="/gifs/03-endgame.gif">
-  <img src="/gifs/03-endgame.gif" width="400" alt="game flow diagram">
+  <img src="/gifs/03-endgame.gif" width="400" alt="endgame">
 </a>
 
 ## Game Flow
@@ -38,7 +40,7 @@ A memory-based puzzle game developed in Scratch.
   <img src="diagram.png" width="900" alt="game flow diagram">
 </a>
 
-*The diagram is intentionally displayed as a preview. Click the image and open it in a new tab to inspect the full-resolution version.*
+*The diagram is displayed as a preview. Click the image and open it in a new tab to inspect the full-resolution version.*
 
 ## Game Features
 
