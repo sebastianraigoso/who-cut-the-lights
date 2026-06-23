@@ -1,10 +1,10 @@
 # Who Cut The Lights
 
+A memory-based puzzle game developed in Scratch.
+
 <a href="/screenshots/menu.png">
   <img src="/screenshots/menu.png" width="400" alt="game flow diagram">
 </a>
-
-A memory-based puzzle game developed in Scratch.
 
 ## Play the Game
 
