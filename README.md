@@ -1,6 +1,17 @@
 # Who Cut The Lights
 
+## Languages
+
+- 🇬🇧 English (current page)
+- 🇯🇵 [日本語](README_JP.md)
+
+## About the Project
 A memory-based puzzle game developed in Scratch.
+
+The player must memorize a path revealed at the start of each level. 
+Once the path disappears, they must rely on memory to navigate safely to the treasure chest.
+
+This project was designed to explore game architecture, event-driven programming, state management, and game flow design.
 
 <a href="/screenshots/menu.png">
   <img src="/screenshots/menu.png" width="400" alt="game flow diagram">
@@ -8,7 +19,7 @@ A memory-based puzzle game developed in Scratch.
 
 ## Play the Game
 
-[Play Who cut the lights] (https://scratch.mit.edu/projects/1334421271)
+[Play Who cut the lights](https://scratch.mit.edu/projects/1334421271)
 
 ## Gameplay
 
@@ -54,21 +65,17 @@ A memory-based puzzle game developed in Scratch.
 ## Technical Challenges
 
 - Timer synchronization system
-- Heart/life handling after falls
-- Game over state issues
-- Intro skipping logic
+- Heart/life handling after player falls
+- Game over transitions
+- Intro skipping system
 - Level Progression
 - Debugging large Scratch projects
-
-## What I have learn
-
-...
 
 ## What I would improve
 
 - Refactor the chrono/timer
 - Replace duplicated code
-- Add sound settings
+- Correct little collision bugs
 - Add additional levels
 - Port the game to godot
 
@@ -78,7 +85,7 @@ A memory-based puzzle game developed in Scratch.
 
 This project uses sprite assets originally sourced from The Spriters Resource.
 The original sprites were not used as-is.
-Individual sprite elements were modify to create new game scenes, levels, user interface elements, and animations specifically for this project.
+Individual sprite elements were modified to create new game scenes, levels, user interface elements, and animations specifically for this project.
 
 Source games include:
 
@@ -97,10 +104,10 @@ This project also uses sound effects sourced from The Sounds Resource.
 Several sounds were edited, trimmed, looped, and integrated into the game to fit gameplay events and animations.
 
 Asset Sources
-https://www.spriters-resource.com
-https://www.sounds-resource.com
+-https://www.spriters-resource.com
+-https://www.sounds-resource.com
 
-!Disclaimer!
+## Disclaimer!
 
 All characters, sprites, sounds, trademarks, and intellectual property belong to their respective copyright holders.
 This project was created as a non-commercial educational and portfolio project to demonstrate game design, programming logic, documentation, and software development practices.
